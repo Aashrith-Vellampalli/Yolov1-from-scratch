@@ -4,3 +4,5 @@ __pycache__/
 data/
 weights/*.pth
 outputs/
+.vscode/
+.DS_Store
